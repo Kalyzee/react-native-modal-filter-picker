@@ -1,6 +1,7 @@
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
 import { Modal, View, ListView, TouchableOpacity, Text, TextInput } from 'react-native'
 
+const PropTypes = require('prop-types')
 
 import styles from './styles'
 
